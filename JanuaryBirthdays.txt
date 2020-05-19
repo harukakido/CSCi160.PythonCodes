@@ -1,0 +1,6 @@
+Tchaikovsky:3
+Bach:4
+Chopin:8
+Beethovan:9
+Mozart:11
+Satie:16
